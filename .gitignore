@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# virtual environment
+venv/**/*
+
+# MAC
+.DS_Store
+
+# data
+data/**/*
